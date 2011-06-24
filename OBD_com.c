@@ -1,5 +1,5 @@
 /*************************************************************************
-**    (C) eae1996 - 2010 IXXAT Automation GmbH, all rights reserved
+**    (C) 1996 - 2011 IXXAT Automation GmbH, all rights reserved
 **************************************************************************
 **
 **       File: OBD_com.c
